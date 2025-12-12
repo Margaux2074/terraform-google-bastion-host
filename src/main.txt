@@ -28,3 +28,4 @@ Generates a bastion host VM compatible with OS Login and IAP Tunneling that can
 # clarify the control flow
 # drop an unused branch
 # match the style used in the rest of the module
+# keep defaults in sync with the manifest
